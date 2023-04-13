@@ -2,6 +2,7 @@
 
 body {
   background: transparent !important;
+  opacity: 0.1 !important;
 }
 
 .font-poppins {
